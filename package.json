@@ -1,0 +1,37 @@
+{
+  "name": "lptracker-consultant",
+  "version": "0.0.1",
+  "description": "NodeJS module for LPTracker consultant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "Pavel Treyakov",
+    "email": "tretyakovpavel.ru@gmail.com"
+  },
+  "license": "ISC",
+  "_id": "lptracker-consultant@0.0.1",
+  "_shasum": "4e7ebbd6d3569f5f20ea4ad5a3b7212437f73573",
+  "_from": "lptracker-consultant@*",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "tretyakovpavel.ru",
+    "email": "tretyakovpavel.ru@gmail.com"
+  },
+  "dist": {
+    "shasum": "4e7ebbd6d3569f5f20ea4ad5a3b7212437f73573",
+    "tarball": "http://registry.npmjs.org/lptracker-consultant/-/lptracker-consultant-0.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "tretyakovpavel.ru",
+      "email": "tretyakovpavel.ru@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lptracker-consultant/-/lptracker-consultant-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}

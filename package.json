@@ -36,6 +36,7 @@
   "readme": "ERROR: No README data found!",
   "dependencies": {
     "clone": "^1.0.2",
+    "debug": "^2.2.0",
     "request": "^2.58.0",
     "socket.io": "^1.3.5"
   }

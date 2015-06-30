@@ -3,3 +3,4 @@ node_modules/clone
 node_modules/debug
 node_modules/request
 node_modules/socket.io
+npm-debug.log
